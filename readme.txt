@@ -1,7 +1,9 @@
-Matlab code of the Morotti et al. mouse ventricular model (J Physiol. 2014) with integration of the Negroni et
-al. contractile model (J Mol Cell Cardiol. 2015).
+Matlab code of the mouse ventricular myocyte with myofilament contraction
 
-This model was used for the simulations shown in Surdo et al. (Nat Commun. 2017).
+The Morotti et al. model of mouse ventricular myocyte (J Physiol. 2014 Mar 15;592(6):1181-97, available for 
+download on this website) is here modified to integrate the Negroni et al. model of myofilament contraction
+in rabbit ventricular myocytes (J Mol Cell Cardiol. 2015 Apr;81:162-75, also available for download on this website).
+This model was used to investigate the compartmentalization of cAMP/PKA signaling in Surdo et al. (Nat Commun. 2017).
 
 ________________________________________________________________________________________________________________
 Contents:
@@ -47,4 +49,4 @@ J.A. Negroni, S. Morotti, E.C. Lascano, A.V. Gomes, E. Grandi, J.L. Puglisi, D.M
 ß-adrenergic effects on cardiac myofilaments and contraction in an integrated rabbit ventricular myocyte model.
 J Mol Cell Cardiol. 2015 Apr;81:162-75. doi: https://doi.org/10.1016/j.yjmcc.2015.02.014
 
-Please cite the above papers when using this model.
+Please, cite the above papers when using this model.
