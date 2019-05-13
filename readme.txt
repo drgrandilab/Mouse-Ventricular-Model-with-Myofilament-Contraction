@@ -34,16 +34,17 @@ ________________________________________________________________________________
 
 References:
 
-J.A. Negroni, S. Morotti, E.C. Lascano, A.V. Gomes, E. Grandi, J.L. Puglisi, D.M. Bers. ß-adrenergic effects on 
-cardiac myofilaments and contraction in an integrated rabbit ventricular myocyte model. J Mol Cell Cardiol.
-2015 Apr; 81:162-75.
-
-S. Morotti, A.G. Edwards, A.D. McCulloch, D.M. Bers, E. Grandi. A novel computational model of mouse myocyte 
-electrophysiology to assess the synergy between Na+ loading and CaMKII. J Physiol. 2014 Mar 15;592(Pt 6):1181-97.
-
 N.C. Surdo, M. Berrera, A. Koschinski, M. Brescia, M.R. Machado, C. Carr, S. Morotti, E. Grandi, P. Wright,
-D.M. Bers, J. Gorelik, S. Pantano, M. Zaccolo. FRET biosensor uncovers cAMP nano-domains at ß-adrenergic targets
-that dictate precise tuning of cardiac contractility. Nat Commun. 2017.
+D.M. Bers, J. Gorelik, S. Pantano, M. Zaccolo.
+FRET biosensor uncovers cAMP nano-domains at ÃŸ-adrenergic targets that dictate precise tuning of cardiac contractility.
+Nat Commun. 2017 Apr 20;8:15031. doi: https://doi.org/10.1038/ncomms15031
 
+S. Morotti, A.G. Edwards, A.D. McCulloch, D.M. Bers, E. Grandi.
+A novel computational model of mouse myocyte electrophysiology to assess the synergy between Na+ loading and CaMKII.
+J Physiol. 2014 Mar 15;592(6):1181-97. doi: https://doi.org/10.1113/jphysiol.2013.266676
+
+Negroni JA, Morotti S, Lascano EC, Gomes AV, Grandi E, Puglisi JL, Bers DM.
+ÃŸ-adrenergic effects on cardiac myofilaments and contraction in an integrated rabbit ventricular myocyte model.
+J Mol Cell Cardiol. 2015 Apr;81:162-75. doi: https://doi.org/10.1016/j.yjmcc.2015.02.014
 
 Please cite the above papers when using this model.
