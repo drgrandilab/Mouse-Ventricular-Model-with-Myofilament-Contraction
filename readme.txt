@@ -1,7 +1,7 @@
 Matlab code of the Morotti et al. mouse ventricular model (J Physiol. 2014) with integration of the Negroni et
 al. contractile model (J Mol Cell Cardiol. 2015).
 
-This model was used for the simulations shown in Surdo et al., Nat Commun. 2017.
+This model was used for the simulations shown in Surdo et al. (Nat Commun. 2017).
 
 ________________________________________________________________________________________________________________
 Contents:
@@ -43,7 +43,7 @@ S. Morotti, A.G. Edwards, A.D. McCulloch, D.M. Bers, E. Grandi.
 A novel computational model of mouse myocyte electrophysiology to assess the synergy between Na+ loading and CaMKII.
 J Physiol. 2014 Mar 15;592(6):1181-97. doi: https://doi.org/10.1113/jphysiol.2013.266676
 
-Negroni JA, Morotti S, Lascano EC, Gomes AV, Grandi E, Puglisi JL, Bers DM.
+J.A. Negroni, S. Morotti, E.C. Lascano, A.V. Gomes, E. Grandi, J.L. Puglisi, D.M. Bers.
 ß-adrenergic effects on cardiac myofilaments and contraction in an integrated rabbit ventricular myocyte model.
 J Mol Cell Cardiol. 2015 Apr;81:162-75. doi: https://doi.org/10.1016/j.yjmcc.2015.02.014
 
